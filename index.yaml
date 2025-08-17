@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mitosys:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-08-17T18:56:25.848531626Z"
+    description: A Helm chart for deploying the Mitosys vulnerability management dashboard.
+    digest: 8e7943d7cb2f149bfd70c7450ed285276478f6eebe362b4b5996e52086a94a45
+    name: mitosys
+    type: application
+    urls:
+    - https://captomas.github.io/mitosys-helm-charts/charts/mitosys-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-17T18:56:25.847724984Z"
